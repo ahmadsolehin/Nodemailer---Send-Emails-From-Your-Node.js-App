@@ -23,4 +23,5 @@ node app
 ## Tools
 
 - express js
-- handle bars
+- express-handlebars
+- nodemailer
