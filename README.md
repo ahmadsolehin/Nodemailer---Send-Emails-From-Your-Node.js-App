@@ -4,6 +4,14 @@ Simple Node.js/Express app using Nodemailer to send emails
 
 - Please add your own SMTP info for it to work
 
+
+## Tools
+
+- express js
+- express-handlebars
+- nodemailer
+
+
 ### Version
 
 1.0.0
@@ -19,9 +27,3 @@ npm install
 ```bash
 node app
 ```
-
-## Tools
-
-- express js
-- express-handlebars
-- nodemailer
